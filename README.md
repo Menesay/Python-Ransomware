@@ -1,4 +1,4 @@
 
-Not a effective ransom. Just a introduction.
+Not a effective ransom. Just an introduction.
 
 Educational purposes only.
