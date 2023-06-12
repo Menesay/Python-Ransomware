@@ -1,4 +1,5 @@
 
-Not a effective ransom. Just an introduction.
+
+Demonstration and Proof of Concept (maybe ?) only.
 
 Educational purposes only.
